@@ -3,13 +3,13 @@
 ## Tech Stack
 2lambda123/twint-desktop-native is built on the following main stack:
 
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- [Python](https://www.python.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
 - [Chart.js](http://www.chartjs.org/) – Charting Libraries
+- [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
 - [Heap](https://heap.io/) – Funnel Analysis Analytics
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -19,13 +19,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/twint-desktop-native is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg' alt='Electron'/> [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
 - <img width='25' height='25' src='https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg' alt='Chart.js'/> [Chart.js](http://www.chartjs.org/) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg' alt='Electron'/> [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
 - <img width='25' height='25' src='https://img.stackshare.io/service/588/i5NnxX2V_400x400.jpg' alt='Heap'/> [Heap](https://heap.io/) – Funnel Analysis Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/twint-desktop-native](https://github.com/2lambda123/twint-desktop-native)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|01/09/24 <br/>Report generated|
+|15<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
